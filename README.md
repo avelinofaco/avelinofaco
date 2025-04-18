@@ -23,7 +23,6 @@ Sou dedicado, proativo e apaixonado por resolver problemas por meio da tecnologi
 | [Todo-Do-List](#) | Uma aplicação simples de lista de tarefas com funcionalidades interativas para marcar e excluir itens da lista. | HTML, CSS e JavaScript |
 | [Sistema_para_artesaos](#) | plataforma online que permite artesãos locais exibir, divulgar e vender seus produtos, promovendo o artesanato regional e proporcionando maior visibilidade e renda aos profissionais. | HTML, CSS e JAVASCRIPT | STRAPI.
 
-> 💡 *Você pode fixar esses repositórios no topo do seu perfil.*
 
 ---
 
